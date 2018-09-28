@@ -400,7 +400,7 @@ rtsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
 http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
 #EXTINF:0, tvg-logo="http://www.gurbaniworldradio.com/uploads/1/5/7/2/15721120/1042176.png" group-title="Devotional",Gurbaani TV
 http://173.255.140.23:8081/live/gtvna/playlist.m3u8
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="English",GTV Sports
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports",GTV Sports
 http://62.210.78.84:25461/live/dllfip/indbann/281.ts|User-Agent=ziiookppllp
 #EXTINF:0, tvg-logo="http://www.firstonetv.net/images/logos/in/HAMDARD.png" group-title="Entertainment",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
