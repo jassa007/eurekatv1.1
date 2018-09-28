@@ -400,6 +400,8 @@ rtsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
 http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
 #EXTINF:0, tvg-logo="http://www.gurbaniworldradio.com/uploads/1/5/7/2/15721120/1042176.png" group-title="Devotional",Gurbaani TV
 http://173.255.140.23:8081/live/gtvna/playlist.m3u8
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="English",GTV Sports
+http://62.210.78.84:25461/live/dllfip/indbann/281.ts|User-Agent=ziiookppllp
 #EXTINF:0, tvg-logo="http://www.firstonetv.net/images/logos/in/HAMDARD.png" group-title="Entertainment",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
 #EXTINF:0, tvg-logo="http://channels.roku.com/images/d594f743841243fa90086504e3c18f44-hd.png" group-title="Devotional",Harvest TV
@@ -650,7 +652,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, tvg-logo="https://i.imgur.com/smSAHKh.jpg" group-title="Infotainment",Osai TV
 http://209.58.180.53/osaihls/live.m3u8
 #EXTINF:0, tvg-logo="http://content.osn.com/logo/channel/165x120/CRI.png" group-title="Sports",OSN Cricket HD
-http://51.15.190.183:8081/atvosn/osncri/playlist.m3u8|User-Agent=a b c d e f g
+http://62.210.78.84:25461/live/dllfip/indbann/321.ts|User-Agent=ziiookppllp
 #EXTINF:0, tvg-logo="https://i.imgur.com/ngbHpPd.jpg" group-title="Entertainment",OTV
 http://edge-ap2.cloudfrontcdn.in:1935/unevent1/smil:test.smil/chunklist_w2095540803_b978000.m3u8
 #EXTINF:0, tvg-logo="https://yt3.ggpht.com/-YvUAO640WNc/AAAAAAAAAAI/AAAAAAAAAAA/XHgSiezaGVg/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="Devotional",Paras TV
@@ -703,7 +705,7 @@ http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Infotainment",PTV Pardesi
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
-http://195.154.119.128:8081/pioollptv/ptv/playlist.m3u8
+http://62.210.78.84:25461/live/ppulljdudbh/jjkshhsbh/276.ts|User-Agent=ziiookppllp
 #EXTINF:0, tvg-logo="" group-title="News",Public TV
 https://vidcdn.vidgyor.com/publictv-origin/live/chunks.m3u8
 #EXTINF:0, tvg-logo="https://scontent.fyyc2-1.fna.fbcdn.net/v/t1.0-1/36121377_1736269069793684_1705878611023626240_n.jpg?_nc_cat=0&oh=87e596ee6dda41df0e11bebc3ca4c7b7&oe=5C3396CB" group-title="Music",Punjab TV
@@ -1047,7 +1049,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, tvg-logo="https://i.imgur.com/HSjk10W.png" group-title="Entertainment",Wah Punjabi
 http://cdn.samtv.ca/wahpunjabi/index.m3u8
 #EXTINF:0, tvg-logo="https://dev.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="Sports",Willow HD
-#REF!
+http://62.210.78.84:25461/live/iiiiiiiiiiiiispo/iiiiiiisp/269.ts|User-Agent=ziiookppllp
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Win TV
 http://45.79.203.234:1935/win/myStream/chunklist_w1012986964.m3u8
 #EXTINF:0, tvg-logo="" group-title="News",Wion
